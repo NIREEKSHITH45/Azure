@@ -34,14 +34,23 @@
 
     ![](media/adds8.png)
 
-9. Go to **[app.powerbi.com](https://app.powerbi.com)** and select the **FabCon** workspace.
+9. From the left navigation panel, go to the **Manage** section, select **Certificates & secrets**, and click on **+ New client secret**.
+
+    ![](media/adds12.png)
+
+10. On the **Add a client secret** page, enter the required description and select an expiration period. and click on **Add**.
+
+    ![](media/adds13.png)
+
+
+11. Go to **[app.powerbi.com](https://app.powerbi.com)** and select the **FabCon** workspace.
 
     ![](media/adds9.png)
 
-10. Click on **Manage access** in the top right corner, then select **+ Add People or Groups**.
+12. Click on **Manage access** in the top right corner, then select **+ Add People or Groups**.
 
     ![](media/adds10.png)
 
-11. Search for and select the **sp-fabcon** app registration you created, grant **admin access**, and click **Add**.
+13. Search for and select the **sp-fabcon** app registration you created, grant **admin access**, and click **Add**.
 
     ![](media/adds11.png)
